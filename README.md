@@ -1,4 +1,4 @@
-# Webscraping-FOMC-Statments
+# Webscraping-FOMC-Statements
 Learning webscraping by attempting to scrape FOMC Statements from 2012 onwards.
 
 This exercise was part of an assignment for an internship application.
